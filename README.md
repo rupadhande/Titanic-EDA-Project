@@ -23,8 +23,8 @@ This project involves basic **Exploratory Data Analysis (EDA)** on the Titanic d
 
 ## Files Included
 
-- **Titanic_EDA.ipynb**: Jupyter Notebook containing all the code and visualizations.
-- **Titanic_EDA_Findings.pdf**: A detailed summary of the key insights and findings from the exploratory data analysis.
+- **EDA_titanic_project.ipynb**: Jupyter Notebook containing all the code and visualizations.
+- **The Description.pdf**: A detailed summary of the key insights and findings from the exploratory data analysis.
 
 ---
 
